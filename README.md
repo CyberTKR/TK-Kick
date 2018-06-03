@@ -1,2 +1,0 @@
-# TK-Kick
-TKR
