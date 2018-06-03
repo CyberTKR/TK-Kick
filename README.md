@@ -9,7 +9,7 @@
 </br><b>✦pip2 install goslate</b>
 </br><b>✦pip2 install urllib3 </b>
 </br><b>✦cd TK-Kick</b>
-</br><b>✦python tk.py</b>
+</br><b>✦python TK.py</b>
 
 <div align="center"><a href="https://instagram.com/_aquariusman"><img src="https://images.cooltext.com/5135666.gif" width="576" height="104" alt="Cyber TK" /></div>
 </br>
